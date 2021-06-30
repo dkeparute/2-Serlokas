@@ -9,7 +9,7 @@
 This is one of the projects that we are making during the Javascript trainings. 
  This project performed for educational porpuses only.
 
-Site published at 
+Site published at https://dkeparute.github.io/2-Serlokas/
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
